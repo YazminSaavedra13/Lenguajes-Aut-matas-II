@@ -1,0 +1,16 @@
+const str0= 'No hay medicina que cure lo que no cura la felicidad';
+console.log("Split con espacio");
+console.log("frase:", str0);
+const words0 = str0.split(' ');
+console.log("longitud: ", words0.length);
+console.log(words0[0]);
+console.log(words0[1]);
+console.log(words0[2]);
+console.log(words0[3]);
+console.log(words0[4]);
+console.log(words0[5]);
+console.log(words0[6]);
+console.log(words0[7]);
+console.log(words0[8]);
+console.log(words0[9]);
+console.log(words0[10]);
